@@ -36,7 +36,7 @@ body{
 }
 
 #modaldiv{
-    /* display: none; */
+     display: none; 
     position: fixed;
     padding: 20% 0 0 30%;
     top: -10%;
